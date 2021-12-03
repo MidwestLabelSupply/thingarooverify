@@ -4,7 +4,7 @@ export default function NotFoundContainer() {
       style={{
         display: "flex",
         width: "100vw",
-        height: "100vh",
+        height: "calc(100vh - 45px)",
         justifyContent: "center",
         alignItems: "center",
         color: "#0e91a0",

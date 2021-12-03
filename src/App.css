@@ -27,3 +27,13 @@
 .my-confetti canvas {
   width: calc(100vw - 20px);
 }
+@media (max-width: 600px) {
+  #logo {
+    width: 120px;
+  }
+}
+@media (max-width: 400px) {
+  #logo {
+    width: 100px;
+  }
+}
