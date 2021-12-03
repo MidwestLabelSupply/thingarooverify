@@ -31,7 +31,7 @@ function App() {
     <div className="App">
       <div>
         <a href="https://thingaroo.com" target="_blank" rel="noreferrer noopener">
-          <img id="logo" src="logo.png" alt="Thingaroo" />
+          <img id="logo" src="/logo.png" alt="Thingaroo" />
         </a>
       </div>
       <GlobalDataContext.Provider
